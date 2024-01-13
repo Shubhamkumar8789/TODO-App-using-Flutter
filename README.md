@@ -1,6 +1,10 @@
 # todo_app
 
 A new Flutter project.
+Output :
+<img width="317" alt="image" src="https://github.com/Shubhamkumar8789/TODO-App-using-Flutter/assets/129000347/0795e518-d681-4e3e-afa4-9df5baa8c547">
+
+<img width="286" alt="image" src="https://github.com/Shubhamkumar8789/TODO-App-using-Flutter/assets/129000347/7ecb52c3-3551-4edf-b708-51a6eeea91c9">
 
 ## Getting Started
 
